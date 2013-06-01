@@ -15,7 +15,7 @@
 		$(document).ready(function () {
 			printLog("Pagina inizializzata", "debug");
 			printLog("Lancio main animazione", "info");
-			// statrJawsjs();
+			statrJawsjs();
 		});
 		
 		
